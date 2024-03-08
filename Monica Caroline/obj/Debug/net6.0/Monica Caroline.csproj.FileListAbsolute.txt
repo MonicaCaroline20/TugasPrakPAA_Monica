@@ -1,0 +1,32 @@
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Monica Caroline.exe
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Monica Caroline.deps.json
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Monica Caroline.runtimeconfig.json
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Monica Caroline.dll
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Monica Caroline.pdb
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\source\repos\Monica Caroline\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets\msbuild.Monica Caroline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets\msbuild.build.Monica Caroline.props
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monica Caroline.props
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monica Caroline.props
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\scopedcss\bundle\Monica Caroline.styles.css
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.dll
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\refint\Monica Caroline.dll
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.pdb
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\Monica Caroline.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Monica Caroline\obj\Debug\net6.0\ref\Monica Caroline.dll
